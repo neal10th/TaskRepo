@@ -1,0 +1,38 @@
+touch a.java
+   20  ls -a
+   21  ls
+   22  git add a.java
+   23  git status
+   24  git comit -m "first commit with a.java"
+   25  git commit -m "first commit with a.java"
+   26  git status
+   27  git log
+   28  git remote add origin https://github.com/neal10th/TaskRepo.git
+   29  git push -u origin main
+   30  cd ..
+   31  pwd
+   32  git clone https://github.com/neal10th/TaskRepo.git
+   33  git clone https://github.com/neal10th/TaskRepo.git
+   34  git clone https://github.com/neal10th/TaskRepo.git
+   35  git clone https://github.com/neal10th/TaskRepo.git
+   36  ls -a
+   37  ls -lrt
+   38  pwd
+   39  cd /c/Users/Dell/
+   40  mkdir DiffGit
+   41  pwd
+   42  cd DiffGit/
+   43  git clone https://github.com/neal10th/TaskRepo.git
+   44  ls -la
+   45  cd TaskRepo/
+   46  ls
+   47  ls -lrt
+   48  touch c.java
+   49  git status
+   50  git add c.java
+   51  git status
+   52  git commit -m "c.java is added"
+   53  git push origin main
+   54  cd ../..
+   55  ll
+
